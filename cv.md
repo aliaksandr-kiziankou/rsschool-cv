@@ -18,3 +18,21 @@ For over last 12 years I've been professionally involved in music. But also I've
 - Java Script
 - Type Script
 - Responsive Design
+
+## Code
+```
+    Program Pythagoras;
+    var a,b,c: real;
+    begin
+      writeln ('enter the length of the 1st cathet');
+      readln (a);
+      writeln ('enter the length of the 2nd cathet');
+      readln (b);
+      c:=sqrt(a*a +b*b);
+      writeln ('hypotenuse=', c);
+    end.
+```
+## Courses
+
+- JavaScript / Frontend | Pre-School Q1
+- JavaScript / Frontend | Summer bootcamp Q2
