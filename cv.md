@@ -36,3 +36,13 @@ For over last 12 years I've been professionally involved in music. But also I've
 
 - JavaScript / Frontend | Pre-School Q1
 - JavaScript / Frontend | Summer bootcamp Q2
+
+## Education
+
+[Belarusian State University of Transport](https://www.bsut.by/en/) *Mechanical Engineer*
+
+## Languages
+
+- **Russian**
+- **Belorussian**
+- **English (B1)**
